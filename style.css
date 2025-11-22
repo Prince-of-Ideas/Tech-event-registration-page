@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(195, 231, 234);
+       line-height:1.5;  
+      margin: 0;
+      padding:0;
+}
+       
+    
+header{
+    background-color: rgb(235, 92, 48);
+   text-align: center;
+   width : 100%;
+}
+nav{
+    background-color: rgb(31, 11, 29);
+    color:rgb(239, 10, 10);
+    padding: 8px;
+}
+a{
+    color:white;
+}
+h1{margin:0;}
+h2{color:rgb(25, 25, 244)}
+
+div{
+    border:3px solid rgb(105, 98, 98);
+    border-radius: 15px;
+    margin:12px;
+    padding:10px;
+    background-color: rgb(250, 241, 226);
+}
+table{
+ 
+    border:2px solid black;
+ border-collapse:collapse;
+ width:100%;
+margin:0 auto;
+}
+td,th{border:2px solid black}
+th{background-color: #c9cac2;}
+
+label {
+  font-weight: bold;
+}
+button{
+    margin-left:40%;
+    padding:10px 80px;
+    color:rgb(247, 243, 243);
+    background-color: rgb(32, 78, 244)
+}
+
+footer {
+  text-align: right;       
+  padding: 15px 40px;     
+  font-size: 18px;
+  font-style: italic;
+  color: #453e3e;
+  font-family: 'Georgia', serif;
+}
