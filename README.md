@@ -25,6 +25,12 @@ It provides a professional interface for showcasing event details, schedules, sp
 
 ---
 
+
+## Live Demo
+[Techwave Conference 2025 ](https://prince-of-ideas.github.io/Tech-event-registration-page/)
+
+---
+
 ## Installation
 1. Go to the repository: [TechWave Event Page](https://github.com/Prince-of-Ideas/Tech-event-registration-page)  
 2. Click on **Code** and copy the repository link.  
@@ -51,4 +57,4 @@ This project is licensed under the MIT License — free to use and adapt with cr
 ---
 
 ## Built by
-Prince  
+[Prince](http://github.com/Prince-of-Ideas)
